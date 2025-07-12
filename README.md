@@ -72,8 +72,8 @@ Here are a few highlighted projects:
 ### 📫 Connect with Me
 
 - 📧 Email: [maheshdindur9740@gmail.com](mailto:maheshdindur9740@gmail.com)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio: [yourportfolio.com]([https://yourportfolio.com](https://maheshdindur.github.io/))  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahesh-dindur-20725724a/))
 
 ---
 
