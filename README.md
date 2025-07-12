@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year CSE student at KLE Dr. MSSCET, Belagavi  
+- 🎓 Computer Science Graduate Actively Seeking Opportunities To Solve Real World Problems
 - 💻 Passionate about **Software Development**, **AI/ML**, and **Cybersecurity**  
 - 🌱 Currently learning **ReactJS**, **AI Projects**, and **System Design**  
 - 🛠️ Building innovative and impactful tech solutions  
