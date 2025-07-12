@@ -3,6 +3,10 @@
 <p align="center">
   <em>Computer Science Graduate | Software Developer | Tech Enthusiast 🚀</em>
 </p>
+<!-- Coding GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Mahesh coding gif" />
+</p>
 
 <p align="center">
   <a href="https://github.com/maheshdindur">
@@ -90,9 +94,9 @@ Here are a few highlighted projects:
   <a href="mailto:maheshdindur9740@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://maheshdindur.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
+<a href="https://maheshdindur.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-1f425f?style=for-the-badge&logo=Firefox&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/mahesh-dindur-20725724a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
