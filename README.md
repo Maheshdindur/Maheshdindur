@@ -71,10 +71,18 @@ Here are a few highlighted projects:
 
 ### 📫 Connect with Me
 
-- 📧 Email: [maheshdindur9740@gmail.com](mailto:maheshdindur9740@gmail.com)  
-- 🌐 Portfolio: [yourportfolio.com]([https://yourportfolio.com](https://maheshdindur.github.io/))  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahesh-dindur-20725724a/))
 
+<p>
+  <a href="mailto:maheshdindur9740@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://maheshdindur.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahesh-dindur-20725724a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
