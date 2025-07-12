@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Mahesh Dindur</h1>
 
