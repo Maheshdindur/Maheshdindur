@@ -60,9 +60,7 @@ Here are a few highlighted projects:
 
 - 🚘 **Vehicle Number Plate Detection System**  
   Python + OpenCV based number plate recognizer.
-
-- 💬 **Sentiment Analysis on Twitter**  
-  NLP-based real-time sentiment classification.
+  
 
 - 🔒 **Face Authentication with Liveness Detection**  
   Real-time webcam-based face liveness and spoofing prevention.
@@ -73,7 +71,7 @@ Here are a few highlighted projects:
 
 ### 📫 Connect with Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Email: [maheshdindur9740@gmail.com](mailto:maheshdindur9740@gmail.com)  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
