@@ -25,7 +25,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science Graduate actively seeking opportunities to solve real-world problems  
-- 💻 Passionate about **Software Development**, **AI/ML**, and **Cybersecurity**  
+- 💻 Passionate about **Software Development**, **AI/ML**, **Agentic AI** and **Cybersecurity**  
 - 🛠️ Building innovative and impactful tech solutions  
 - 🎯 Goal: Become an expert software engineer and contribute to open-source
 
